@@ -4,7 +4,7 @@ import  java.lang.String;
 public class Awtproject1 {  
     private static Dialog d;  
     Awtproject1() {  
-         
+   //helooo      
 //        d = new Dialog();
         d.setLayout( new FlowLayout() );  
         Button b = new Button ("OK");  
